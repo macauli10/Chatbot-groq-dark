@@ -103,7 +103,7 @@ Abra seu navegador e acesse: [http://localhost:5000](http://localhost:5000)
 
 ## 🎯 Modelos Disponíveis
 
-O projeto utiliza por padrão o modelo `mixtral-8x7b-32768`, mas pode ser configurado para usar outros modelos da Groq como:
+O projeto utiliza por padrão o modelo `llama-3.1-8b-instant`, mas pode ser configurado para usar outros modelos da Groq como:
 - `llama2-70b-4096`
 - `llama3-70b-8192`
 - `gemma-7b-it`
